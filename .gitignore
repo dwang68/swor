@@ -19,6 +19,7 @@ dist/
 *.txt
 !dict.*.txt
 *.pt
+*.tar
 
 # Random data folders
 data_*
